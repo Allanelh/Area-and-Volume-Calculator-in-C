@@ -1,7 +1,7 @@
-**Shape Area and Volume Calculator**
+# Shape Area and Volume Calculator
 A comprehensive C program that calculates areas and volumes of various geometric shapes with a user-friendly natural language interface.
 
-**Features**
+## Features
 - Area Calculations: Circle, Rectangle, Triangle, Square
 - Volume Calculations: Sphere, Cube, Rectangular Prism, Triangular Prism
 - Natural Language Input: Type commands instead of memorizing number codes
@@ -9,7 +9,7 @@ A comprehensive C program that calculates areas and volumes of various geometric
 - Input Validation: Handles invalid inputs gracefully
 - Clean Output: Results formatted to 2 decimal places
 
-##Installation & Compilation
+## Installation & Compilation
 1. Clone the repository:
    ```C
    git clone <repository-url>
