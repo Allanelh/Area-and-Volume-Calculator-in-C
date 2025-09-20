@@ -21,4 +21,6 @@ A comprehensive C program that calculates areas and volumes of various geometric
 ```
 
 3. Run the program:
-./shape_calculator
+```C   
+   ./shape_calculator
+```
