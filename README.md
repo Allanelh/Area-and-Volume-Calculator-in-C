@@ -14,13 +14,14 @@ A comprehensive C program that calculates areas and volumes of various geometric
    ```C
    git clone <repository-url>
    cd shape-calcualtor
+   ```
 
 2. Compile the program:
- ```C
+   ```C
    gcc -o shape_calculator shape_calculator.c -lm
-```
+   ```
 
 3. Run the program:
-```C   
+   ```C   
    ./shape_calculator
-```
+   ```
