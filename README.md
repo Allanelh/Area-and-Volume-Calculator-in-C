@@ -8,6 +8,8 @@ A comprehensive C program that calculates areas and volumes of various geometric
 - Case-Insensitive: Inputs like "CIRCLE", "Circle", and "circle" all work
 - Input Validation: Handles invalid inputs gracefully
 - Clean Output: Results formatted to 2 decimal places
+- Time Complexity O(1)
+- Space Complexity: O(1) because the program uses a constant amount of memory
 
 ## Installation & Compilation
 1. Clone the repository:
