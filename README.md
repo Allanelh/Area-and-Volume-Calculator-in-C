@@ -27,3 +27,10 @@ A comprehensive C program that calculates areas and volumes of various geometric
    ```C   
    ./shape_calculator
    ```
+4. Enter area or volume calculation.
+
+5. Select the desired geometrical shape.
+
+6. Specify the required dimensions for the formulas.
+
+7. The code will output the result.
